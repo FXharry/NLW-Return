@@ -185,7 +185,7 @@ nav button {
   cursor: pointer;
 }
 
-/*=== MENU-EXPANDED =================================*/
+/*=== MENU-EXPANDED ==============================*/
 body.menu-expanded {
   overflow: hidden;
 }
