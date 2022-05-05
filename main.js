@@ -1,6 +1,5 @@
 /*criar a função*/
 /*executar a função = chamar ela pelo nome - onScroll() */
-/*A*/
 
 function onScroll() {
   if (scrollY > 0) {
