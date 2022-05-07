@@ -1,6 +1,6 @@
 /*criar a função*/
 /*executar a função = chamar ela pelo nome - onScroll() */
-
+/*a*/
 window.addEventListener('scroll', onScroll)
 
 onScroll()
