@@ -1,4 +1,5 @@
 ![NLW Return](https://github.com/FXharry/NLW-Return/blob/master/assets/Logotipo%20NLW%20return.jpg?raw=true)
+
 ![Doctor Care](https://github.com/FXharry/NLW-Return/blob/master/assets/Logo.png?raw=true)
 
 # Doctor Care Medical Agency Project - NLW Return
@@ -7,9 +8,9 @@
 
 ![enter image description here](https://github.com/FXharry/NLW-Return/blob/master/assets/Doctor%20care%201.png?raw=true)
 
-/_ Deploy on Netlify:_/
+Deploy on Netlify:
 
-> hfxdoctorcare-nlwreturn.netlify.app
+hfxdoctorcare-nlwreturn.netlify.app
 
 ### Technologies 🚀
 
@@ -19,4 +20,4 @@ This project was developed at the official NLW Return event of rocketseat.com.br
 2. CSS
 3. Javascript
 
-Made with ♥ by Lucas Queiroz (FXharry) on NLW BY ROCKETSEAT 👋
+Made with ♥ by Lucas Queiroz (FXharry) on NLW Return BY ROCKETSEAT 👋
