@@ -8,7 +8,7 @@
 
 Deploy on Netlify:
 
-[Project in Live:](https://hfxdoctorcare-nlwreturn.netlify.app/)
+[Project in Live: hfxdoctorcare-nlwreturn.netlify.app](https://hfxdoctorcare-nlwreturn.netlify.app/)
 
 ### Technologies 🚀
 
