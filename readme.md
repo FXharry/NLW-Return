@@ -1,7 +1,5 @@
 ![NLW Return](https://github.com/FXharry/NLW-Return/blob/master/assets/Logotipo%20NLW%20return.jpg?raw=true)
 
-![Doctor Care](https://github.com/FXharry/NLW-Return/blob/master/assets/Logo.png?raw=true)
-
 # Doctor Care Medical Agency Project - NLW Return
 
 ##### Website with a focus on responsiveness for desktop and mobile devices.
@@ -10,7 +8,7 @@
 
 Deploy on Netlify:
 
-hfxdoctorcare-nlwreturn.netlify.app
+[Project in Live:](https://hfxdoctorcare-nlwreturn.netlify.app/)
 
 ### Technologies 🚀
 
