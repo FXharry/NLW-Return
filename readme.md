@@ -12,7 +12,7 @@ To view the project live on Netlify: [Click Here](https://hfxdoctorcare-nlwretur
 
 <h1 align="center"> Technologies 🚀 </h1>
 
-This project was developed at the official NLW Return event of rocketseat.com.br with these technologies:
+This project was developed at the official NLW Return event of [rocketseat.com.br](https://www.rocketseat.com.br/) with these technologies:
 
 - [HTML](https://www.w3schools.com/html/) 
 - [CSS](https://www.w3schools.com/css/default.asp) 
