@@ -14,8 +14,8 @@ Deploy on Netlify:
 
 This project was developed at the official NLW Return event of rocketseat.com.br with these technologies:
 
-- [HTML.](https://www.w3schools.com/html/) 
-- [CSS.](https://www.w3schools.com/css/default.asp) 
-- [Javascript.](https://www.w3schools.com/js/)
+- [HTML](https://www.w3schools.com/html/) 
+- [CSS](https://www.w3schools.com/css/default.asp) 
+- [Javascript](https://www.w3schools.com/js/)
 
-Made with ♥ by Lucas Queiroz (FXharry) on NLW Return BY ROCKETSEAT 👋
+Made with ♥ by Lucas Queiroz on NLW Return <b>BY ROCKETSEAT</b> 👋
