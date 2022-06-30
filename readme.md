@@ -6,9 +6,8 @@
 
 ![enter image description here](https://github.com/FXharry/NLW-Return/blob/master/assets/Doctor%20care%201.png?raw=true)
 
-Deploy on Netlify:
 
-To view the project live: [Click Here](https://hfxdoctorcare-nlwreturn.netlify.app/)
+To view the project live on Netlify:: [Click Here](https://hfxdoctorcare-nlwreturn.netlify.app/)
 
 <h1 align="center"> Technologies 🚀 </h1>
 
