@@ -1,4 +1,4 @@
-![NLW Return](https://github.com/FXharry/NLW-Return/blob/master/assets/Logotipo%20NLW%20return.jpg?raw=true)
+<img align="center"![NLW Return](https://github.com/FXharry/NLW-Return/blob/master/assets/Logotipo%20NLW%20return.jpg?raw=true)>
 
 # Doctor Care Medical Agency Project - NLW Return
 
