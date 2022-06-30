@@ -1,8 +1,8 @@
-<img align="center" ![NLW Return](https://github.com/FXharry/NLW-Return/blob/master/assets/Logotipo%20NLW%20return.jpg?raw=true) >
+![NLW Return](https://github.com/FXharry/NLW-Return/blob/master/assets/Logotipo%20NLW%20return.jpg?raw=true) 
 
-# Doctor Care Medical Agency Project - NLW Return
+<h1 align="center"> Doctor Care Medical Agency Project - NLW Return </h1>
 
-##### Website with a focus on responsiveness for desktop and mobile devices.
+<p align="justify"><b> Website with a focus on responsiveness for desktop and mobile devices. </b></p>
 
 ![enter image description here](https://github.com/FXharry/NLW-Return/blob/master/assets/Doctor%20care%201.png?raw=true)
 
